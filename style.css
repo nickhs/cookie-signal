@@ -5,9 +5,12 @@ body {
 a {
 	text-decoration: none;
 }
-#cookieContainer {
-	width: 276px;
+#container{
 	margin: 100px auto 0;
+	width: 276px;
+	text-align: center;
+	font-family: Verdana;
+	color:#272727;
 }
 #cookie {
 	background: url(images/cookie.png) no-repeat;
@@ -17,4 +20,8 @@ a {
 }
 #cookie:hover {
 	background: url(images/cookie-bite.png) no-repeat;
+}
+#thankyou {
+	margin-top:50px;
+	display: none;
 }
