@@ -13,13 +13,13 @@ a {
 	color:#272727;
 }
 #cookie {
-	background: url(images/cookie.png) no-repeat;
+	background: url(/static/img/cookie.png) no-repeat;
 	width: 276px;
 	height: 276px;
 	display: block;
 }
 #cookie:hover {
-	background: url(images/cookie-bite.png) no-repeat;
+	background: url(/static/img/cookie-bite.png) no-repeat;
 }
 #thankyou {
 	margin-top:50px;
